@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704856627 source:c:\users\cody\desktop\codes\reversechar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
